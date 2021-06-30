@@ -23,7 +23,7 @@ sections:
 
       You work hard. Get affordable CME that is relevant to your practice!
     actions:
-      - title: See all items
+      - title: View Courses
         url: /store
         arrow: true
         style: primary
