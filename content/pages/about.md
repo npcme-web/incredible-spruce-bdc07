@@ -22,7 +22,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: 'Affordable, convenient, quality Continuing Medical Education.'
-    subtitle: from $149.99
+    subtitle: Get Started Today!
     image: images/grad.png
     background_image: images/leaf.svg
     cta:
