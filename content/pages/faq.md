@@ -14,7 +14,7 @@ sections:
     section_id: faq_section
     questions:
       - question: What do I get when I purchase a course?
-        answer: >
+        answer: >+
           As soon as you complete the checkout process you will receive an email
           with:
 
@@ -24,10 +24,11 @@ sections:
           *   A digital download link. Click the link and you will be able to
           download your purchased course in PDF format.
 
+          *   A follow up course evaluation form.
 
-          You will also receive a follow up email with a course evaluation form
-          for you to fill out and return in order to receive credit for the
-          course.
+          *   Upon completion of evaluation form, a formal Certificate of
+          Completion will be sent as well.
+
       - question: How do you handle sensitive customer information?
         answer: >
           NPCME uses a third party shopping cart solution and does not store any
