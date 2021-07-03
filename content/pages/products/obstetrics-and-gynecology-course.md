@@ -19,6 +19,10 @@ seo:
       value: Obstetrics and Gynecology Continuing Education Course
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: Obstetrics and Gynecology Continuing Education Course
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: product
 category: content/pages/category/obgyn.md
