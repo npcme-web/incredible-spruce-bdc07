@@ -12,7 +12,7 @@ order: 0
 featured: true
 seo:
   title: Obstetrics and Gynecology Continuing Education Course
-  description: ''
+  description: Obstetrics and Gynecology Continuing Education Course
   robots: []
   extra: []
   type: stackbit_page_meta
