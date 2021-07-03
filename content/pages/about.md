@@ -21,7 +21,7 @@ sections:
         image: images/nan_talk.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: Begin your course today!
+    title: 'Affordable, convenient, quality Continuing Medical Education.'
     subtitle: from $149.99
     image: images/grad.png
     background_image: images/leaf.svg
