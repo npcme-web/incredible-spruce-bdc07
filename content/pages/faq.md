@@ -42,7 +42,6 @@ sections:
     image: images/grad.png
     section_id: contact_section
     email: npcontinuingedu@gmail.com
-    phone: Email Us
 seo:
   title: FAQ
   description: This is the faq page
