@@ -51,7 +51,9 @@ seo:
       value: Planty Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: >-
+        Get high quality and affordable education in your field with the
+        convenience of learning from home.
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
