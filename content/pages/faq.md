@@ -53,9 +53,6 @@ seo:
     - name: 'og:title'
       value: NPCME FaQ's
       keyName: property
-    - name: 'og:description'
-      value: This is the faq page
-      keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
