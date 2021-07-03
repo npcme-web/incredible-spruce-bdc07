@@ -56,7 +56,9 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: >-
+        NPCME provides high quality, affordable education for Nurse
+        Practitioners. Take your course with us TODAY!
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
