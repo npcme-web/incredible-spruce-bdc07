@@ -1,7 +1,7 @@
 {
     "title": "NPCME",
     "path_prefix": "/",
-    "favicon": "images/favicon.png",
+    "favicon": "images/npcme_logo_1.png",
     "logo_dark": "images/npcme_logo_1.png",
     "logo_light": "images/npcme_logo_1.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
