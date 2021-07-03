@@ -1,6 +1,6 @@
 ---
 id: obgyn1
-title: lorem-ipsum
+title: Obst
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
