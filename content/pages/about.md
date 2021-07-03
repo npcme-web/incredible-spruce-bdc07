@@ -24,7 +24,7 @@ sections:
     title: A new home interior for summer
     subtitle: from $149.99
     image: images/grad.png
-    background_image: images/npcme_logo_1.png
+    background_image: images/leaf.svg
     cta:
       title: Discover
       url: /store
