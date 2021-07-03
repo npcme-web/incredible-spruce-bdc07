@@ -39,7 +39,7 @@ sections:
           that, we do not offer refunds as we are confident that you will have
           received a quality education.
   - type: contact_section
-    image: images/promo.jpg
+    image: images/grad.png
     section_id: contact_section
     address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
     phone: +1-202-555-0112
