@@ -41,7 +41,6 @@ sections:
   - type: contact_section
     image: images/grad.png
     section_id: contact_section
-    address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
     phone: +1-202-555-0112
     email: npcontinuingedu@gmail.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
