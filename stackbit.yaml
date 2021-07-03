@@ -533,6 +533,7 @@ models:
         label: Seo
       - name: guid
         type: string
+        label: guid
   action:
     type: object
     label: Action
