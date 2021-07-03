@@ -11,7 +11,7 @@ price: '250'
 order: 0
 featured: true
 seo:
-  title: ''
+  title: Obstetrics and Gynecology Continuing Education Course
   description: ''
   robots: []
   extra: []
