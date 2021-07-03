@@ -504,6 +504,11 @@ models:
       - type: string
         name: description
         label: Description
+      - name: guid
+        type: string
+        label: guid
+        description: guid
+        hidden: true
       - type: string
         name: price
         label: Price
@@ -522,11 +527,6 @@ models:
         label: Category
         models:
           - category
-      - name: guid
-        type: string
-        label: guid
-        description: guid
-        hidden: true
       - type: boolean
         name: featured
         label: Featured
