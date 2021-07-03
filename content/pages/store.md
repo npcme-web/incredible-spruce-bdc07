@@ -5,7 +5,7 @@ sections:
   - type: store_section
     section_id: store_section
 seo:
-  title: Store
+  title: NPCME Course Offerings
   description: This is the store page
   extra:
     - name: 'og:type'
