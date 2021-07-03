@@ -31,7 +31,7 @@ sections:
       style: primary
       arrow: true
 seo:
-  title: About
+  title: About NPCME
   description: This is the about page
   extra:
     - name: 'og:type'
