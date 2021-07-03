@@ -522,6 +522,11 @@ models:
         label: Category
         models:
           - category
+      - name: guid
+        type: string
+        label: guid
+        description: guid
+        hidden: true
       - type: boolean
         name: featured
         label: Featured
@@ -531,11 +536,6 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: guid
-        type: string
-        label: guid
-        description: guid
-        hidden: true
   action:
     type: object
     label: Action
