@@ -534,6 +534,8 @@ models:
       - name: guid
         type: string
         label: guid
+        description: guid
+        hidden: true
   action:
     type: object
     label: Action
