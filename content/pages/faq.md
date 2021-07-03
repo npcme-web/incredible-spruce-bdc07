@@ -46,7 +46,6 @@ sections:
     address: Email Us
 seo:
   title: NPCME FaQ's
-  description: This is the faq page
   extra:
     - name: 'og:type'
       value: website
