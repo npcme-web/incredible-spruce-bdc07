@@ -54,7 +54,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About
+      value: About NPCME
     - name: 'twitter:description'
       value: >-
         NPCME provides high quality, affordable education for Nurse
