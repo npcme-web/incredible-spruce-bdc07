@@ -1,5 +1,5 @@
 ---
-id: lorem-ipsum
+id: obgyn
 title: lorem-ipsum
 description: lorem-ipsum
 price: lorem-ipsum
