@@ -8,7 +8,7 @@ sections:
     background_image: images/grad.png
     background_image_opacity: 40
     content: >
-      # ![](/images/npcme_logo\_1.png)
+      # ![](/images/npcme_logo_1.png)
 
 
       # Spend your CME allowance wisely.
