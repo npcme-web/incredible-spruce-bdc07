@@ -34,17 +34,10 @@ sections:
           sensitive customer data.  Only your email will be saved by NPCME for
           accounting purposes.
       - question: Do you offer refunds?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          NPCME stands by the quality of the materials we provide. Having said
+          that, we do not offer refunds as we are confident that you will have
+          received a quality education.
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
