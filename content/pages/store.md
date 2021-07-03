@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:title'
       value: Store
     - name: 'twitter:description'
-      value: This is the store page
+      value: Take a look at the courses we have available today!
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
