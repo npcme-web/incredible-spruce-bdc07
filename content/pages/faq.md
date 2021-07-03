@@ -56,7 +56,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: FAQ
+      value: NPCME FaQ's
     - name: 'twitter:description'
       value: This is the faq page
 ---
