@@ -56,7 +56,7 @@ seo:
         convenience of learning from home.
       keyName: property
     - name: 'og:image'
-      value: images/header.jpg
+      value: /_static/app-assets/npcme_logo_1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
