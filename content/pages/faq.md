@@ -28,7 +28,7 @@ sections:
           You will also receive a follow up email with a course evaluation form
           for you to fill out and return in order to receive credit for the
           course.
-      - question: How do refunds and returns work?
+      - question: Do you offer any sort of refund or guar
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
           *someone*. Again, tell it like it is:
