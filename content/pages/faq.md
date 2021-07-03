@@ -33,7 +33,7 @@ sections:
           NPCME uses a third party shopping cart solution and does not store any
           sensitive customer data.  Only your email will be saved by NPCME for
           accounting purposes.
-      - question: lorem-ipsum
+      - question: Do you offer refunds?
         answer: >-
           ## Lorem ipsum
 
