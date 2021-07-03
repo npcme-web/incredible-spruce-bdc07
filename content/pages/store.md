@@ -18,7 +18,7 @@ seo:
       value: Take a look at the courses we have available today!
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/grad.png
+      value: images/grad.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
