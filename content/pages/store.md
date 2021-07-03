@@ -15,7 +15,7 @@ seo:
       value: Store
       keyName: property
     - name: 'og:description'
-      value: This is the store page
+      value: Take a look at the courses we have available today!
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
