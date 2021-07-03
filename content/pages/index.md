@@ -39,7 +39,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
+  title: NPCME - Continuing Education for Nurse Practitioners
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
