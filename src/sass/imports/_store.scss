@@ -2,7 +2,7 @@
     &__title {
         font-family: $font_family_primary;
         font-size: $font_size_xlarge;
-        line-height: 60px;
+        line-height: 160px;
         @include smaller-than-tablet { 
             font-size: $font_size_large; 
             line-height: 42px;
