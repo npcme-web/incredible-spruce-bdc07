@@ -1,6 +1,6 @@
 ---
 id: obgyn1
-title: Obst
+title: Obstetrics and Gynecology Course
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
