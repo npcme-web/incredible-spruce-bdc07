@@ -11,7 +11,7 @@ sections:
       # ![](/\_static/app-assets/npcme_logo\_1.png)
 
 
-      Spend your CME allowance wisely.
+      # Spend your CME allowance wisely.
 
 
       With NPCME, you will receive quality educational materials designed to
