@@ -42,7 +42,6 @@ sections:
     image: images/grad.png
     section_id: contact_section
     email: npcontinuingedu@gmail.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
   title: FAQ
   description: This is the faq page
