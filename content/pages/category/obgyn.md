@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: OBGYN
 order: 0
 seo:
   title: ''
