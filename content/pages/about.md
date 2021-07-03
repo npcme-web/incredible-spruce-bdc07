@@ -26,7 +26,7 @@ sections:
     image: images/grad.png
     background_image: images/leaf.svg
     cta:
-      title: View our Courses
+      title: View Courses
       url: /store
       style: primary
       arrow: true
