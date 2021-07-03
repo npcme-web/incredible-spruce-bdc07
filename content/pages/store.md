@@ -12,7 +12,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Store
+      value: Coures
       keyName: property
     - name: 'og:description'
       value: Take a look at the courses we have available today!
