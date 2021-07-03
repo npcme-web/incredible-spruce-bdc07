@@ -14,7 +14,11 @@ seo:
   title: Obstetrics and Gynecology Continuing Education Course
   description: Obstetrics and Gynecology Continuing Education Course
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Obstetrics and Gynecology Continuing Education Course
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: product
 category: content/pages/category/obgyn.md
