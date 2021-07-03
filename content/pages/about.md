@@ -43,7 +43,9 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: >-
+        NPCME provides high quality, affordable education for Nurse
+        Practitioners. Take your course with us TODAY!
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
