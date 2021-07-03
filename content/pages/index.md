@@ -64,7 +64,9 @@ seo:
     - name: 'twitter:title'
       value: Planty Theme
     - name: 'twitter:description'
-      value: The preview of the Planty theme
+      value: >-
+        Get high quality and affordable education in your field with the
+        convenience of learning from home.
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
