@@ -1,5 +1,5 @@
 ---
-title: Course Directory
+title: NPCME Course Directory
 layout: store
 sections:
   - type: store_section
