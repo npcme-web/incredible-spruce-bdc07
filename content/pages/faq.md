@@ -38,6 +38,18 @@ sections:
           NPCME stands by the quality of the materials we provide. Having said
           that, we do not offer refunds as we are confident that you will have
           received a quality education.
+      - question: lorem-ipsum
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
   - type: contact_section
     image: images/grad.png
     section_id: contact_section
