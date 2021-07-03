@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Store
+      value: NPCME Course Offerings
     - name: 'twitter:description'
       value: Take a look at the courses we have available today!
     - name: 'twitter:image'
