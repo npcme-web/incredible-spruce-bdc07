@@ -19,6 +19,8 @@ sections:
       requirements.
 
 
+
+
       You work hard. Get affordable, convenient Continuing Medical Education
       relevant to your practice! Get started today and enroll in one of our
       courses.
