@@ -62,7 +62,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Planty Theme
+      value: NPCME - Continuing Education for Nurse Practitioners
     - name: 'twitter:description'
       value: >-
         Get high quality and affordable education in your field with the
