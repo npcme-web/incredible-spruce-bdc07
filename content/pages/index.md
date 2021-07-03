@@ -34,7 +34,7 @@ sections:
     image: images/man-2562325_1920.jpg
     background_image: images/leaf.svg
     cta:
-      title: Discover
+      title: View Courses
       url: /store
       style: secondary
       arrow: true
