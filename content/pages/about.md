@@ -40,7 +40,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About
+      value: About NPCME
       keyName: property
     - name: 'og:description'
       value: >-
