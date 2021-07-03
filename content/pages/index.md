@@ -14,11 +14,9 @@ sections:
       # Spend your CME allowances wisely.
 
 
-      With NPCME, you will receive high-quality Continuing Medical Education for
-      Nurse Practitioners educational materials designed to meet and exceed your
-      requirements.
-
-
+      #### With NPCME, you will receive high-quality Continuing Medical
+      Education for Nurse Practitioners educational materials designed to meet
+      and exceed your requirements.
 
 
       You work hard. Get affordable, convenient Continuing Medical Education
