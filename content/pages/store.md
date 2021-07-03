@@ -6,7 +6,7 @@ sections:
     section_id: store_section
 seo:
   title: NPCME Course Offerings
-  description: This is the store page
+  description: Take a look at the courses we have available today!
   extra:
     - name: 'og:type'
       value: website
