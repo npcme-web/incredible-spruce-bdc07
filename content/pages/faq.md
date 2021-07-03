@@ -14,14 +14,20 @@ sections:
     section_id: faq_section
     questions:
       - question: What do I get when I purchase a course?
-        answer: >-
-          Now that’s a frequent one all right, ain’t it? Your answer to this
-          should *manage customer expectations*. Just like [a good checkout
-          flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
+        answer: >
+          As soon as you complete the checkout process you will receive an email
+          with:
 
-            - US shipping will take between 3 to 5 business days.
-            - International shipping will take between 5 and 10 business days.
-            - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+
+          *   Payment confirmation.
+
+          *   A digital download link. Click the link and you will be able to
+          download your purchased course in PDF format.
+
+
+          You will also receive a follow up email with a course evaluation form
+          for you to fill out and return in order to receive credit for the
+          course.
       - question: How do refunds and returns work?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
