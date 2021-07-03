@@ -24,7 +24,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:image'
-      value: /_static/app-assets/pregnant-1245703_1920.jpg
+      value: images/pregnant-1245703_1920.jpg
       keyName: property
       relativeUrl: true
   type: stackbit_page_meta
