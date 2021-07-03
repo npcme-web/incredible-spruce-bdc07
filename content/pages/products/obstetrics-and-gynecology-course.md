@@ -27,6 +27,10 @@ seo:
       value: images/pregnant-1245703_1920.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/pregnant-1245703_1920.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: product
 category: content/pages/category/obgyn.md
