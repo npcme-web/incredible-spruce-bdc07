@@ -8,7 +8,7 @@ description: >-
   patients and potential pregnancy related complications. Understand specific
   considerations for multiple pregnancies. Diagnose preterm labor
 price: '250'
-guid: ''
+guid: '3c5f9666-801e-4d23-9260-baaec24f1c91'
 order: 0
 featured: true
 seo:
