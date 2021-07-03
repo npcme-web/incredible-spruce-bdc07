@@ -32,7 +32,9 @@ sections:
       arrow: true
 seo:
   title: About NPCME
-  description: This is the about page
+  description: >-
+    NPCME provides high quality, affordable education for Nurse Practitioners.
+    Take your course with us TODAY!
   extra:
     - name: 'og:type'
       value: website
