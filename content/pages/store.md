@@ -1,5 +1,5 @@
 ---
-title: Store
+title: Course Directory
 layout: store
 sections:
   - type: store_section
