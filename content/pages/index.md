@@ -8,20 +8,20 @@ sections:
     background_image: images/grad.png
     background_image_opacity: 40
     content: >
-      # ![](/images/npcme_logo_1.png)
+      # ![](/images/npcme_logo\_1.png)
 
 
-      # Spend your CME allowance wisely.
+      # Spend your CME allowances wisely.
 
 
-      With NPCME, you will receive quality educational materials designed to
-      meet and exceed your requirements.
+      With NPCME, you will receive high-quality Continuing Medical Education for
+      Nurse Practitioners educational materials designed to meet and exceed your
+      requirements.
 
 
-      Continuing Medical Education for Nurse Practitioners.
-
-
-      You work hard. Get affordable CME that is relevant to your practice!
+      You work hard. Get affordable, convenient Continuing Medical Education
+      relevant to your practice! Get started today and enroll in one of our
+      courses.
     actions:
       - title: View Courses
         url: /store
