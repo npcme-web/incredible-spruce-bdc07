@@ -51,7 +51,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: FAQ
+      value: NPCME FaQ's
       keyName: property
     - name: 'og:description'
       value: This is the faq page
