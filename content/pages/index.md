@@ -48,7 +48,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: NPCME - Continuing Education for Nurse Practitioners
       keyName: property
     - name: 'og:description'
       value: >-
