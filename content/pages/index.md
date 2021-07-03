@@ -40,7 +40,9 @@ sections:
       arrow: true
 seo:
   title: NPCME - Continuing Education for Nurse Practitioners
-  description: The preview of the Planty theme
+  description: >-
+    Get high quality and affordable education in your field with the convenience
+    of learning from home.
   extra:
     - name: 'og:type'
       value: website
