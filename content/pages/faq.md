@@ -28,14 +28,6 @@ sections:
           You will also receive a follow up email with a course evaluation form
           for you to fill out and return in order to receive credit for the
           course.
-      - question: Do you offer any sort of refund or guar
-        answer: >-
-          It happens. Even the most beautiful of plants will disappoint
-          *someone*. Again, tell it like it is:
-
-            - All discounted items sales are final.
-            - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-            - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
       - question: How do you handle sensitive customer information?
         answer: >
           NPCME uses a third party shopping cart solution and does not store any
