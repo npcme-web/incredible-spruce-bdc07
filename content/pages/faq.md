@@ -45,7 +45,7 @@ sections:
     email: npcontinuingedu@gmail.com
     address: Email Us
 seo:
-  title: FAQ
+  title: NPCME FaQ's
   description: This is the faq page
   extra:
     - name: 'og:type'
