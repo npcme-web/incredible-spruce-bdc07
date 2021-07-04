@@ -11,6 +11,7 @@ export default class BuyButton extends React.Component {
                 data-item-name={_.get(product_page, 'frontmatter.title', null)}
                 data-item-url={_.get(product_page, '__metadata.urlPath', null)}
                 data-item-file-guid={_.get(product_page, 'frontmatter.guid', null)}
+                data-item-file-guid={_.get(product_page, 'frontmatter.guid', null)}
                 data-item-price={_.get(product_page, 'frontmatter.price', null)}
                 {...(_.get(product_page, 'frontmatter.default_thumbnail_image', null) ? ({"data-item-image": withPrefix(_.get(product_page, 'frontmatter.default_thumbnail_image', null))}) : null)}
                 data-item-description={_.get(product_page, 'frontmatter.description', null)}
