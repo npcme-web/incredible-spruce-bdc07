@@ -5,17 +5,8 @@ white_header: false
 sections:
   - section_id: lorem-ipsum
     headline: Thank You
-    subtitle: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    subtitle: |
+      We will be in contact shortly!
     type: header_section
 seo:
   title: ''
