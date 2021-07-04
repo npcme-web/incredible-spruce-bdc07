@@ -8,7 +8,7 @@ sections:
     subtitle: |
       # Please evaluate your course.
 
-      <form name="contact" method="POST" action="/" data-netlify="true">
+      <form name="contact" method="POST" action="/store" data-netlify="true">
       <p><label>Your Name: <input type="text" name="name" /></label></p>
       <p><label>Your Email: <input type="email" name="email" /></label></p>
       <br/>
