@@ -10,7 +10,6 @@ sections:
 
       <form name="contact" method="POST" data-netlify="true">
       <p><label>Your Name: <input type="text" name="name" /></label></p>
-
       </form>
     type: header_section
     background_image: images/leaf-light-grey.svg
