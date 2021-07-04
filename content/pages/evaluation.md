@@ -16,7 +16,7 @@ sections:
       <b>The author demonstrated experiential knowledge of the topic:</b><br/>
       <select name="" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       <br/><br/>
-      <b>The author demonstrated experiential knowledge of the topic:</b><br/>
+      <b>The content provided a fair and balanced coverage of the topic:</b><br/>
       
       
       </p>
