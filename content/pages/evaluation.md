@@ -28,7 +28,7 @@ sections:
       <b>The individual objectives/content topics were cohesive with one another:</b><br/>
       <input type="radio" id="4" name="obj_content" value="4">
       <label for="html">4</label><br>
-      <input type="radio" id="3" name="obj_content" value="4">
+      <input type="radio" id="3" name="obj_content" value="3">
       <label for="html">4</label><br>
       <input type="radio" id="4" name="obj_content" value="4">
       <label for="html">4</label><br>
