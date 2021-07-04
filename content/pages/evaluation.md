@@ -9,7 +9,7 @@ sections:
       # Please evaluate your course.
     type: header_section
     background_image: images/leaf-light-grey.svg
-  - section_id: contact
+  - section_id: evalcontact
     address: Email Us
     email: npcme.info@gmail.com
     type: contact_section
