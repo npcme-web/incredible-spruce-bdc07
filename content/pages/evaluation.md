@@ -4,7 +4,7 @@ page_css_class: gray-background
 white_header: false
 sections:
   - section_id: evaluation
-    headline: lorem-ipsum
+    headline: Course Evalu
     subtitle: >-
       ## Lorem ipsum
 
