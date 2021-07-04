@@ -12,7 +12,6 @@ sections:
   - section_id: lorem-ipsum
     address: Email Us
     email: lorem-ipsum
-    mapUrl: lorem-ipsum
     type: contact_section
 seo:
   title: ''
