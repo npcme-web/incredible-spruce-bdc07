@@ -8,8 +8,8 @@ sections:
     subtitle: |
       # Please evaluate your course.
 
-      <form>
-      
+      <form name="contact" method="POST" data-netlify="true">
+
       </form>
     type: header_section
     background_image: images/leaf-light-grey.svg
