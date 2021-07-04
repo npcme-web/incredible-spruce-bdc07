@@ -8,7 +8,7 @@ sections:
     subtitle: |
       We will be in contact shortly!
     type: header_section
-    background_image: images/leaf-light-grey.svg
+    background_image: images/leaf.svg
   - section_id: contact
     email: npcme.info@gmail.com
     type: contact_section
