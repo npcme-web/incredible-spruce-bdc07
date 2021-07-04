@@ -5,11 +5,8 @@ white_header: false
 sections:
   - section_id: lorem-ipsum
     headline: Thank You
-    subtitle: |+
+    subtitle: |
       We will be in contact shortly!
-
-      \<button action="/">Home\</button>
-
     type: header_section
 seo:
   title: ''
