@@ -508,7 +508,6 @@ models:
         type: string
         label: guid
         description: guid
-        hidden: true
       - type: string
         name: price
         label: Price
