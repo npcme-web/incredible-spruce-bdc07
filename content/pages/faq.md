@@ -42,7 +42,7 @@ sections:
   - type: contact_section
     image: images/grad.png
     section_id: contact_section
-    email: npcontinuingedu@gmail.com
+    email: npcme.info@gmail.com
     address: Email Us
 seo:
   title: NPCME FaQ's
