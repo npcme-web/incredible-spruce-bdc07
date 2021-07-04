@@ -27,7 +27,7 @@ sections:
       <br/><br/>
       <b>The individual objectives/content topics were cohesive with one another:</b><br/>
       <input type="radio" id="html" name="fav_language" value="4">
-  <label for="html">HTML</label><br>
+      <label for="html">HTML</label><br>
       
       <br/><br/>
       <b>I would recommend this activity to my colleagues:</b><br/>
