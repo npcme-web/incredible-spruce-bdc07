@@ -1,5 +1,5 @@
 ---
-title: 'Thank '
+title: Thank You
 page_css_class: lorem-ipsum
 white_header: false
 sections: []
