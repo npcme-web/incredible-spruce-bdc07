@@ -26,15 +26,7 @@ sections:
       <select name="" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       <br/><br/>
       <b>The individual objectives/content topics were cohesive with one another:</b><br/>
-      <input type="radio" id="4" name="obj_content" value="4">
-      <label for="4">4</label><br>
-      <input type="radio" id="3" name="obj_content" value="3">
-      <label for="3">3</label><br>
-      <input type="radio" id="2" name="obj_content" value="2">
-      <label for="2">2</label><br>
-      <input type="radio" id="1" name="obj_content" value="1">
-      <label for="1">1</label><br>
-      
+      <select name=""><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       <br/><br/>
       <b>I would recommend this activity to my colleagues:</b><br/>
       <select name=""><option value="Yes">Yes</option><option value="No">No</option></select>
