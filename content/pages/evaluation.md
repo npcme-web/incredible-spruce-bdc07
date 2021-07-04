@@ -11,7 +11,7 @@ sections:
     background_image: images/leaf-light-grey.svg
   - section_id: lorem-ipsum
     address: Email Us
-    email: npcmeinfo
+    email: npcmeinfo@gmail.com
     type: contact_section
 seo:
   title: ''
