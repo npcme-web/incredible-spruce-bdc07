@@ -30,9 +30,9 @@ sections:
       <label for="4">4</label><br>
       <input type="radio" id="3" name="obj_content" value="3">
       <label for="3">3</label><br>
-      <input type="radio" id="4" name="obj_content" value="4">
+      <input type="radio" id="4" name="obj_content" value="3">
       <label for="2">2</label><br>
-      <input type="radio" id="4" name="obj_content" value="1">
+      <input type="radio" id="1" name="obj_content" value="1">
       <label for="1">1</label><br>
       
       <br/><br/>
