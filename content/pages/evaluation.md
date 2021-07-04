@@ -31,7 +31,7 @@ sections:
       <b>I would recommend this activity to my colleagues:</b><br/>
       <select name="" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       <br /><br />
-      <button typesubmit>Submit Evaluation</submit>
+      <button type="submit">Submit Evaluation</submit>
       </p>
       </form>
     type: header_section
