@@ -7,6 +7,10 @@ sections:
     headline: Thank You
     subtitle: |
       We will be in contact shortly!
+
+
+
+      [Take me Home](http://npcme.netlify.app)
     type: header_section
 seo:
   title: ''
