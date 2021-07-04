@@ -30,7 +30,7 @@ sections:
       <br/><br/>
       <b>I would recommend this activity to my colleagues:</b><br/>
       <select name="" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
-      <br /></br>
+      <br /><br />
       <submit>Submit Evaluation</submit>
       </p>
       </form>
