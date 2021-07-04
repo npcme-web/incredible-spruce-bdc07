@@ -9,8 +9,7 @@ sections:
       # Please evaluate your course.
 
       <form>
-      
-    <a href="http://www.google.com">test</a>
+      <a href="http://www.google.com">test</a>
       </form>
     type: header_section
     background_image: images/leaf-light-grey.svg
