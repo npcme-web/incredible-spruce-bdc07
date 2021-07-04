@@ -17,8 +17,7 @@ sections:
 
       - dolor sit amet
     type: header_section
-    background_image: >-
-      images/depositphotos_189389226-stock-photo-obstetrician-gynecologist-helping-pregnant-woman.jpg
+    background_image: images/grad.png
 seo:
   title: ''
   description: ''
