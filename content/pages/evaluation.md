@@ -17,7 +17,7 @@ sections:
       <select name="The author demonstrated experiential knowledge of the topic" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       <br/><br/>
       <b>The content provided a fair and balanced coverage of the topic:</b><br/>
-      <select name="Fair Content" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
+      <select name="The content provided a fair and balanced coverage of the topic" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       <br/><br/>
       <b>The content was free of commercial bias:</b><br/>
       <select name="Free of commercial bias"><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
