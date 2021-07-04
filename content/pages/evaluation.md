@@ -28,7 +28,7 @@ sections:
       <b>The individual objectives/content topics were cohesive with one another:</b><br/>
       <input type="radio" name="">
       <label>4</label>
-      <label>4</label>
+      <label>3</label>
       <label>4</label>
       <label>4</label>
       <br/><br/>
