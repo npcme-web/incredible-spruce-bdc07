@@ -17,7 +17,7 @@ sections:
 
       - dolor sit amet
     type: header_section
-    background_image: images/grad.png
+    background_image: images/leaf-light-grey.svg
 seo:
   title: ''
   description: ''
