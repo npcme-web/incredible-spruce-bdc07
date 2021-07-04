@@ -5,17 +5,10 @@ white_header: false
 sections:
   - section_id: evaluation
     headline: Course Evaluation
-    subtitle: >-
-      ## Lorem ipsum
+    subtitle: |
+      ##
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Please evaluate your course.
     type: header_section
     background_image: images/leaf-light-grey.svg
 seo:
