@@ -9,7 +9,6 @@ sections:
       We will be in contact shortly!
     type: header_section
   - section_id: lorem-ipsum
-    address: lorem-ipsum
     email: lorem-ipsum
     type: contact_section
 seo:
