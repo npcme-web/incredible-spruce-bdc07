@@ -3,7 +3,7 @@ title: Evaluation
 page_css_class: gray-background
 white_header: false
 sections:
-  - section_id: E
+  - section_id: evaluation
     headline: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum
