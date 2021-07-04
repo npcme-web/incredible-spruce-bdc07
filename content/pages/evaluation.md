@@ -29,7 +29,7 @@ sections:
       <input type="radio" id="4" name="obj_content" value="4">
       <label for="html">4</label><br>
       <input type="radio" id="3" name="obj_content" value="3">
-      <label for="html">4</label><br>
+      <label for="html">3</label><br>
       <input type="radio" id="4" name="obj_content" value="4">
       <label for="html">4</label><br>
       <input type="radio" id="4" name="obj_content" value="4">
