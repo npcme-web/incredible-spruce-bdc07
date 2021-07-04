@@ -31,9 +31,9 @@ sections:
       <input type="radio" id="3" name="obj_content" value="3">
       <label for="3">3</label><br>
       <input type="radio" id="4" name="obj_content" value="4">
-      <label for="html">4</label><br>
+      <label for="2">4</label><br>
       <input type="radio" id="4" name="obj_content" value="4">
-      <label for="html">4</label><br>
+      <label for="1">4</label><br>
       
       <br/><br/>
       <b>I would recommend this activity to my colleagues:</b><br/>
