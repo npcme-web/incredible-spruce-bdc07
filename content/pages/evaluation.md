@@ -27,6 +27,9 @@ sections:
       <br/><br/>
       <b>The individual objectives/content topics were cohesive with one another:</b><br/>
       <select name="" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
+      <br/><br/>
+      <b>The individual objectives/content topics were cohesive with one another:</b><br/>
+      <select name="" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       
       
       </p>
