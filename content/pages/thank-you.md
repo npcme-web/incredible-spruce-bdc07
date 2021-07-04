@@ -11,6 +11,7 @@ sections:
   - section_id: lorem-ipsum
     email: lorem-ipsum
     type: contact_section
+    address: Email
 seo:
   title: ''
   description: ''
