@@ -9,6 +9,7 @@ sections:
       # Please evaluate your course.
 
       <form>
+      
       </form>
     type: header_section
     background_image: images/leaf-light-grey.svg
