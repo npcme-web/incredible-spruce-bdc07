@@ -1,6 +1,6 @@
 ---
 title: thank-you
-page_css_class: lorem-ipsum
+page_css_class: gray-background
 white_header: false
 sections:
   - section_id: thank-you
