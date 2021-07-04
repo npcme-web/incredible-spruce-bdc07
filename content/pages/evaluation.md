@@ -29,7 +29,7 @@ sections:
       <select name="The individual objectives/content topics were cohesive with one another"><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       <br/><br/>
       <b>I would recommend this activity to my colleagues:</b><br/>
-      <select name=""><option value="Yes">Yes</option><option value="No">No</option></select>
+      <select name="I would recommend this activity to my colleagues"><option value="Yes">Yes</option><option value="No">No</option></select>
       <br /><br />
       <input type="hidden" name="form-name" value="contact" />
       <button type="submit">Submit</button>
