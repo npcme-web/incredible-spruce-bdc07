@@ -9,8 +9,7 @@ sections:
       # Please evaluate your course.
 
       <form name="contact" method="POST" data-netlify="true">
-      <p><label>Your Name: <input type="text" name="name" /></label>   
-  </p>
+      <p><label>Your Name: <input type="text" name="name" /></label></p>
 
       </form>
     type: header_section
