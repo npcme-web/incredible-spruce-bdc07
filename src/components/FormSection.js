@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 import {toStyleObj, withPrefix, markdownify} from '../utils';
 
-export default class HeaderSection extends React.Component {
+export default class FormSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         return (
