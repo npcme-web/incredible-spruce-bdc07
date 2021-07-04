@@ -9,6 +9,12 @@ sections:
       # Please evaluate your course.
     type: header_section
     background_image: images/leaf-light-grey.svg
+  - section_id: lorem-ipsum
+    address: lorem-ipsum
+    phone: lorem-ipsum
+    email: lorem-ipsum
+    mapUrl: lorem-ipsum
+    type: contact_section
 seo:
   title: ''
   description: ''
