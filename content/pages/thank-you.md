@@ -12,6 +12,7 @@ sections:
     email: npcme.info@gmail.com
     type: contact_section
     address: Email
+    image: images/27649754016_b51decc4f3_c.jpg
 seo:
   title: ''
   description: ''
