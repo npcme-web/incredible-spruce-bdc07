@@ -8,7 +8,7 @@ sections:
     subtitle: |
       # Please evaluate your course.
 
-      <form name="contact" method="POST" data-netlify="true" action="/thank-you">
+      <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
       <p><label>Your Name: <input type="text" name="name" /></label></p>
       <p><label>Your Email: <input type="email" name="email" /></label></p>
       <br/>
