@@ -26,7 +26,7 @@ sections:
       <select name="Author fully disclosed any conflict of interest and discussion of off-label usage of medication and/or medical devices at beginning of, or during the presentation" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       <br/><br/>
       <b>The individual objectives/content topics were cohesive with one another:</b><br/>
-      <select name=""><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
+      <select name="The individual objectives/content topics were cohesive with one another"><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       <br/><br/>
       <b>I would recommend this activity to my colleagues:</b><br/>
       <select name=""><option value="Yes">Yes</option><option value="No">No</option></select>
