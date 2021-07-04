@@ -27,7 +27,7 @@ sections:
       <br/><br/>
       <b>The individual objectives/content topics were cohesive with one another:</b><br/>
       <input type="radio" name="">
-      <label>1</label>
+      <label>4</label>
       <br/><br/>
       <b>I would recommend this activity to my colleagues:</b><br/>
       <select name=""><option value="Yes">Yes</option><option value="No">No</option></select>
