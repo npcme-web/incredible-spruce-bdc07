@@ -14,7 +14,7 @@ sections:
       <br/>
       <p><b>As a result of my participation in this activity, I am better able to:</b><br/><label>Assess the pregnant patient: <select name="role[]" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select></label><br/><label>Identify potential complications in pregnancy: <select name="role[]" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select></label><br/><label>treat complications during pregnancy: <select name="role[]" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select></label><br/><br/>
       <b>The author demonstrated experiential knowledge of the topic:</b><br/>
-      <select name="role[]" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
+      <select name="" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       
       
       </p>
