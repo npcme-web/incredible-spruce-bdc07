@@ -10,7 +10,7 @@ sections:
     type: header_section
     background_image: images/leaf-light-grey.svg
   - section_id: lorem-ipsum
-    address: lorem-ipsum
+    address: Email Us
     phone: lorem-ipsum
     email: lorem-ipsum
     mapUrl: lorem-ipsum
