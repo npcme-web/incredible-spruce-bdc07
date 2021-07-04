@@ -6,9 +6,7 @@ sections:
   - section_id: evaluation
     headline: Course Evaluation
     subtitle: |
-      ##
-
-      Please evaluate your course.
+      # Please evaluate your course.
     type: header_section
     background_image: images/leaf-light-grey.svg
 seo:
