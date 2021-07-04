@@ -11,7 +11,6 @@ sections:
     background_image: images/leaf-light-grey.svg
   - section_id: lorem-ipsum
     address: Email Us
-    phone: lorem-ipsum
     email: lorem-ipsum
     mapUrl: lorem-ipsum
     type: contact_section
