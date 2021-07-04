@@ -9,7 +9,7 @@ sections:
       We will be in contact shortly!
     type: header_section
   - section_id: lorem-ipsum
-    email: lorem-ipsum
+    email: npcme.info@gmail.com
     type: contact_section
     address: Email
 seo:
