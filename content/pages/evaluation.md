@@ -31,6 +31,8 @@ sections:
       <b>I would recommend this activity to my colleagues:</b><br/>
       <select name=""><option value="Yes">Yes</option><option value="No">No</option></select>
       <br /><br />
+      <input type="hidden" name="form-name" value="name_of_my_form" />
+
       
       <button type="submit">Submit</button>
       </p>
