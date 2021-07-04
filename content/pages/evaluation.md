@@ -22,7 +22,8 @@ sections:
       <b>The content was free of commercial bias:</b><br/>
       <select name="" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       <br/><br/>
-      <b>The content was free of commercial bias:</b><br/>
+      <b>Author fully disclosed any conflict of interest and discussion of off-label usage of
+medication and/or medical devices at beginning of, or during the presentation:</b><br/>
       <select name="" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       
       
