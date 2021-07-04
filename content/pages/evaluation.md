@@ -26,7 +26,7 @@ sections:
       <select name="" select><option value="4">4</option><option value="3">3</option><option value="2">2</option><option value="1">1</option></select>
       <br/><br/>
       <b>The individual objectives/content topics were cohesive with one another:</b><br/>
-      <input type="radio" name="">
+      <input type="radio" for="">
       <label>4</label>
       <label>3</label>
       <label>4</label>
