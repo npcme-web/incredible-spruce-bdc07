@@ -5,12 +5,11 @@ white_header: false
 sections:
   - section_id: lorem-ipsum
     headline: Thank You
-    subtitle: |
+    subtitle: |+
       We will be in contact shortly!
 
+      \<button action="/">Home\</button>
 
-
-      [Take me Home](http://npcme.netlify.app)
     type: header_section
 seo:
   title: ''
