@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "favicon": "images/npcme_logo_1.png",
     "logo_dark": "images/npcme_transparent-side-by-side-logo-80px.png",
-    "logo_light": "images/npcme_transparent-side-by-side-logo-80px.png",
+    "logo_light": "images/npcmelogo.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "images/pregnant-1245703_1920.jpg",
     "bg_image_primary_opacity": 60,
