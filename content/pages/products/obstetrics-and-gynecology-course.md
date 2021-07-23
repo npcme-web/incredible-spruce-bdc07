@@ -25,7 +25,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:image'
-      value: images/pregnant-1245703_1920.jpg
+      value: images/grad.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:image'
