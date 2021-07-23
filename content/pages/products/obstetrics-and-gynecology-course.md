@@ -36,6 +36,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: product
 category: content/pages/category/obgyn.md
