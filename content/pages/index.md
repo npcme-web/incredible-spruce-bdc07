@@ -68,6 +68,6 @@ seo:
         Get high quality and affordable education in your field with the
         convenience of learning from home.
     - name: 'twitter:image'
-      value: images/grad.png
+      value: images/grad-photo.png
       relativeUrl: true
 ---
