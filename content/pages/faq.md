@@ -57,4 +57,8 @@ seo:
       value: summary
     - name: 'twitter:title'
       value: NPCME FaQ's
+    - name: 'og:image'
+      value: images/grad.png
+      keyName: property
+      relativeUrl: true
 ---
