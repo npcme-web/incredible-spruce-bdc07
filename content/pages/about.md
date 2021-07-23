@@ -48,7 +48,7 @@ seo:
         Practitioners. Take your course with us TODAY!
       keyName: property
     - name: 'og:image'
-      value: images/header.jpg
+      value: images/grad.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
