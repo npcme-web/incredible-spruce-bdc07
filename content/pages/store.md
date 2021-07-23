@@ -28,6 +28,6 @@ seo:
     - name: 'twitter:description'
       value: Take a look at the courses we have available today!
     - name: 'twitter:image'
-      value: images/grad.png
+      value: images/grad-photo.png
       relativeUrl: true
 ---
