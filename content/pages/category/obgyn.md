@@ -10,6 +10,10 @@ seo:
       value: images/grad.png
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: category
 ---
