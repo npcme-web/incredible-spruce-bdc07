@@ -46,6 +46,11 @@
         position: absolute;
         right: 0;
         top: 0;
+
+        background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
     }
 
     &__links {
