@@ -14,6 +14,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'twitter:image'
+      value: images/grad-photo.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: category
 ---
