@@ -62,7 +62,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:image'
-      value: images/grad.png
+      value: images/grad-photo.png
       keyName: property
       relativeUrl: true
 ---
