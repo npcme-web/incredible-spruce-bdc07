@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/grad.png
+    background_image: images/grad-photo.png
     background_image_opacity: 40
     content: >
       # ![](/images/npcme_logo_1.png)
