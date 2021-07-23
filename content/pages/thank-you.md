@@ -19,10 +19,6 @@ seo:
   description: ''
   robots: []
   extra:
-    - name: 'og:image'
-      value: images/grad-photo.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:image'
       value: images/grad-photo.png
       keyName: property
