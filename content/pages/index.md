@@ -68,6 +68,6 @@ seo:
         Get high quality and affordable education in your field with the
         convenience of learning from home.
     - name: 'twitter:image'
-      value: images/npcme_logo_1.png
+      value: images/grad.png
       relativeUrl: true
 ---
