@@ -2,7 +2,7 @@
 title: OBGYN
 order: 0
 seo:
-  title: ''
+  title: OBGYN Courses
   description: ''
   robots: []
   extra:
