@@ -60,6 +60,6 @@ seo:
         NPCME provides high quality, affordable education for Nurse
         Practitioners. Take your course with us TODAY!
     - name: 'twitter:image'
-      value: images/grad.png
+      value: images/grad-photo.png
       relativeUrl: true
 ---
