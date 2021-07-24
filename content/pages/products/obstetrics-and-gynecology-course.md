@@ -7,7 +7,7 @@ description: >-
   perform first trimester examinations and screenings. Identify high risk
   patients and potential pregnancy related complications. Understand specific
   considerations for multiple pregnancies. Diagnose preterm labor
-guid: 3fd1428a-3bae-4521-8e83-27568f7f85ca
+guid: 05d83dd8-0bb3-4321-921b-19f3d425699d
 order: 0
 featured: true
 seo:
